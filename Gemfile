@@ -49,6 +49,7 @@ group :development, :test do
   #adding bootstrap
 
 gem 'bootstrap-sass', '3.3.5'
+
 gem 'autoprefixer-rails'
 
 #use font awesome libraries
