@@ -1,8 +1,10 @@
 source 'https://rubygems.org'
 
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.0'
+gem 'rails', '4.2.1'
 # Use sqlite3 as the database for Active Record
+
 gem 'sqlite3', group: [:development, :test]
 # Use postgresql as the database for production
 group :production do
@@ -47,6 +49,7 @@ group :development, :test do
   #adding bootstrap
 
 gem 'bootstrap-sass', '3.3.5'
+gem 'autoprefixer-rails'
 
 #use font awesome libraries
 gem 'font-awesome-sass', '4.2.0'
