@@ -48,7 +48,7 @@ group :development, :test do
   
   #adding bootstrap
 
-gem 'bootstrap-sass', '3.3.5'
+gem 'bootstrap-sass', '3.1.1'
 
 gem 'autoprefixer-rails'
 
