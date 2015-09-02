@@ -11,12 +11,10 @@
 // about supported directives.
 //
 
+
+//= require bootstrap-sprockets
 //= require jquery
 //= require lightbox
-
 //= require jquery_ujs
 //= require turbolinks
-
-//= require bootstrap
-
 //= require_tree .
